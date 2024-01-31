@@ -1,0 +1,7 @@
+D:\ОАиП\T16.3\bin\Debug\T16.3.exe.config
+D:\ОАиП\T16.3\bin\Debug\T16.3.exe
+D:\ОАиП\T16.3\bin\Debug\T16.3.pdb
+D:\ОАиП\T16.3\obj\Debug\T16.3.csproj.AssemblyReference.cache
+D:\ОАиП\T16.3\obj\Debug\T16.3.csproj.CoreCompileInputs.cache
+D:\ОАиП\T16.3\obj\Debug\T16.3.exe
+D:\ОАиП\T16.3\obj\Debug\T16.3.pdb
